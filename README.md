@@ -76,6 +76,7 @@ xnor(y7,a,b);
 endmodule
 
 */
+
 Logic symbol:
 
 ![image](https://user-images.githubusercontent.com/120115840/226112524-a8ac9b7d-a4ce-4825-9461-90b4c3a51717.png)
