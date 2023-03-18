@@ -77,12 +77,15 @@ endmodule
 
 */
 Logic symbol:
+
 ![image](https://user-images.githubusercontent.com/120115840/226112524-a8ac9b7d-a4ce-4825-9461-90b4c3a51717.png)
 
 Truth table:
+
 ![image](https://user-images.githubusercontent.com/120115840/226112563-f67fb77b-0c78-4111-8b5b-ad7f7b64bd5a.png)
 
 RTL realization:
+
 ![Screenshot 2023-03-18 195937](https://user-images.githubusercontent.com/120115840/226112664-2b7d214f-76fe-483e-a965-9fc9fbfa0052.png)
 
 Result:
