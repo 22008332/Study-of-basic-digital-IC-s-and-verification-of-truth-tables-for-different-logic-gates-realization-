@@ -62,7 +62,7 @@ Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by:Preethi.A.A
 RegisterNumber:22008332
-
+///
 module exp1(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
@@ -74,7 +74,7 @@ nand (y5,a,b);
 nor (y6,a,b);
 xnor(y7,a,b);
 endmodule
-
+///
 */
 
 Logic symbol:
@@ -88,6 +88,10 @@ Truth table:
 RTL realization:
 
 ![Screenshot 2023-03-18 195937](https://user-images.githubusercontent.com/120115840/226112664-2b7d214f-76fe-483e-a965-9fc9fbfa0052.png)
+
+Wave form:
+
+![Screenshot 2023-03-20 185022](https://user-images.githubusercontent.com/120115840/226351574-4872e5f2-b299-41e4-afc7-536089a05030.png)
 
 Result:
 
